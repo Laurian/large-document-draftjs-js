@@ -1,0 +1,12 @@
+.DraftEditor-root {
+  border: 1px solid darkgray;
+  padding: .5em;
+}
+
+section {
+  margin-bottom: 1em;
+}
+
+small {
+  color: darkred;
+}
